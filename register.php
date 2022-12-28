@@ -90,6 +90,7 @@ include_once "registerLogic.php";
         </div>
     </div>
 
+    
 </body>
 
 </html>

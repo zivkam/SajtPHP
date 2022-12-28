@@ -3,6 +3,7 @@
 include_once "Database.php";
 
 
+
 if (isset($_POST['name']) && isset($_POST['surname']) && isset($_POST['email']) && isset($_POST['uname']) && isset($_POST['password'])) {
 
     function validate($data)
