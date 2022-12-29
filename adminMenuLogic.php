@@ -1,5 +1,5 @@
 <?php
-class Model
+class Model 
 {
     private $server = "localhost";
     private $username = "root";

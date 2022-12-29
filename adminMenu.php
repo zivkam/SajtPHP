@@ -4,7 +4,7 @@ session_start();
 if(!$_SESSION['id'] || ($_SESSION['id'] && $_SESSION['is_admin']==0)){
     header("Location: index.php");
 }
-?>
+?> 
 <!DOCTYPE html>
 <html lang="en">
 
